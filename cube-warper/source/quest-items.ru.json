@@ -42,7 +42,7 @@
   "item.kubejs.empty_shell": "Пустая оболочка",
   "item.kubejs.energized_redstone": "Заряженный красный камень",
   "item.kubejs.error_cube": "Куб ошибки",
-  "item.kubejs.grains_of_infinity": "Зёрна бесконечности",
+  "item.kubejs.grains_of_infinity": "Зерно бесконечности",
   "item.kubejs.party_popper": "Хлопушка",
   "item.kubejs.peeking_circuit": "Подглядывающая схема",
   "item.kubejs.portal_lantern": "Трубка возвращения",
@@ -80,5 +80,17 @@
   "block.create.andesite_ladder": "Обожжённая лестница",
   "item.create.andesite_ladder": "Обожжённая лестница",
   "block.appflux.harden_insulating_resin": "Затвердевшая изолирующая смола",
-  "item.appflux.harden_insulating_resin": "Затвердевшая изолирующая смола"
+  "item.appflux.harden_insulating_resin": "Затвердевшая изолирующая смола",
+  "item.create.rose_quartz": "Кровавый кварц",
+  "item.create.polished_rose_quartz": "Полированный кровавый кварц",
+  "block.create.rose_quartz_block": "Блок кровавого кварца",
+  "block.create.rose_quartz_lamp": "Лампа из кровавого кварца",
+  "block.create.rose_quartz_tiles": "Плитки из кровавого кварца",
+  "block.create.small_rose_quartz_tiles": "Мелкие плитки из кровавого кварца",
+  "create.ponder.rose_quartz_lamp.header": "Лампы из кровавого кварца",
+  "create.ponder.rose_quartz_lamp.text_1": "Лампы из кровавого кварца активируются сигналом красного камня",
+  "advancement.create.rose_quartz.desc": "Отполируйте кровавый кварц",
+  "item.miners_delight.weird_caviar": "Суп из свисающих фруктов",
+  "item.tiab.time_in_a_bottle": "Камень времени",
+  "block.undergarden.shiverstone_froststeel_ore": "Осмиевая руда дрожащего камня"
 }
