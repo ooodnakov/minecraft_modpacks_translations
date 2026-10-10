@@ -1,2 +1,5 @@
-# minecraft_modpacks_translations
-Переводы квестов в различных модпаках для Minecraft
+# Переводы модпаков Minecraft
+
+Переводы квестов для различных сборок Minecraft.
+
+- [Cube Warper 1.11 — русский перевод](cube-warper/README.md): готовые файлы для установки, инструкции и исходники перевода.
