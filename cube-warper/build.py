@@ -1,4 +1,4 @@
-"""Build bilingual FTB Quests text from the preserved Cube Warper 1.11 originals."""
+"""Build bilingual FTB Quests text from the preserved Cube Warper 1.13 originals."""
 from pathlib import Path
 import json,re
 ROOT=Path(__file__).resolve().parent

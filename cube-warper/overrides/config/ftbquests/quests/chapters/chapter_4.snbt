@@ -130,13 +130,20 @@
 		}
 		{
 			dependencies: ["41914B292526CC00"]
+			description: [
+				"{cube_warper.quest.chapter_4.005}"
+				""
+				"{cube_warper.quest.chapter_4.006}"
+				""
+				"{cube_warper.quest.chapter_4.007}"
+			]
 			id: "1E41EDAFE5271147"
 			rewards: [{
 				id: "5C7FFF2A710B2C1C"
 				item: "supplementaries:confetti_popper"
 				type: "item"
 			}]
-			subtitle: "{cube_warper.quest.chapter_4.005}"
+			subtitle: "{cube_warper.quest.chapter_4.008}"
 			tasks: [
 				{
 					id: "15B6ACE5F8B04605"
@@ -149,6 +156,7 @@
 					type: "item"
 				}
 			]
+			title: "{cube_warper.quest.chapter_4.009}"
 			x: 4.0d
 			y: 11.0d
 		}
@@ -160,8 +168,8 @@
 			]
 			dependency_requirement: "one_completed"
 			description: [
-				"{cube_warper.quest.chapter_4.006}"
-				"{cube_warper.quest.chapter_4.007}"
+				"{cube_warper.quest.chapter_4.010}"
+				"{cube_warper.quest.chapter_4.011}"
 			]
 			icon: "botania:runic_altar"
 			id: "0921248B4773650A"
@@ -195,7 +203,7 @@
 					type: "item"
 				}
 			]
-			title: "{cube_warper.quest.chapter_4.008}"
+			title: "{cube_warper.quest.chapter_4.012}"
 			x: 4.0d
 			y: 18.0d
 		}
@@ -219,10 +227,10 @@
 			tasks: [{
 				dimension: "hexahedron:brimstone_veil"
 				id: "1FA82804FB168091"
-				title: "{cube_warper.quest.chapter_4.009}"
+				title: "{cube_warper.quest.chapter_4.013}"
 				type: "dimension"
 			}]
-			title: "{cube_warper.quest.chapter_4.010}"
+			title: "{cube_warper.quest.chapter_4.014}"
 			x: -13.0d
 			y: 7.5d
 		}
@@ -234,10 +242,10 @@
 			tasks: [{
 				dimension: "hexahedron:the_sugarscape"
 				id: "59E1D4EF1603E70F"
-				title: "{cube_warper.quest.chapter_4.011}"
+				title: "{cube_warper.quest.chapter_4.015}"
 				type: "dimension"
 			}]
-			title: "{cube_warper.quest.chapter_4.012}"
+			title: "{cube_warper.quest.chapter_4.016}"
 			x: 4.0d
 			y: 7.5d
 		}
@@ -247,9 +255,9 @@
 				"5FADC584E46C9392"
 			]
 			description: [
-				"{cube_warper.quest.chapter_4.013}"
+				"{cube_warper.quest.chapter_4.017}"
 				""
-				"{cube_warper.quest.chapter_4.014}"
+				"{cube_warper.quest.chapter_4.018}"
 			]
 			icon: "thermal:glowstone_bucket"
 			id: "4555E52C2484D80A"
@@ -277,7 +285,7 @@
 					type: "item"
 				}
 			]
-			title: "{cube_warper.quest.chapter_4.015}"
+			title: "{cube_warper.quest.chapter_4.019}"
 			x: 4.0d
 			y: 29.0d
 		}
@@ -286,7 +294,7 @@
 				"3CDFB7634E1757EC"
 				"0A96A6A3F883A86B"
 			]
-			description: ["{cube_warper.quest.chapter_4.016}"]
+			description: ["{cube_warper.quest.chapter_4.020}"]
 			icon: "create:basin"
 			id: "2D69B59AE399754E"
 			rewards: [{
@@ -302,7 +310,7 @@
 			}]
 			shape: "gear"
 			size: 2.0d
-			subtitle: "{cube_warper.quest.chapter_4.017}"
+			subtitle: "{cube_warper.quest.chapter_4.021}"
 			tasks: [
 				{
 					count: 2L
@@ -344,18 +352,18 @@
 					type: "item"
 				}
 			]
-			title: "{cube_warper.quest.chapter_4.018}"
+			title: "{cube_warper.quest.chapter_4.022}"
 			x: -13.0d
 			y: 21.5d
 		}
 		{
 			dependencies: ["7A7CCA02D1D6DE9D"]
 			description: [
-				"{cube_warper.quest.chapter_4.019}"
+				"{cube_warper.quest.chapter_4.023}"
 				""
-				"{cube_warper.quest.chapter_4.020}"
+				"{cube_warper.quest.chapter_4.024}"
 				""
-				"{cube_warper.quest.chapter_4.021}"
+				"{cube_warper.quest.chapter_4.025}"
 			]
 			id: "3CDFB7634E1757EC"
 			rewards: [{
@@ -371,14 +379,14 @@
 			}]
 			shape: "gear"
 			size: 2.0d
-			subtitle: "{cube_warper.quest.chapter_4.022}"
+			subtitle: "{cube_warper.quest.chapter_4.026}"
 			tasks: [{
 				count: 2L
 				id: "7369DEE9BE9C2A24"
 				item: "create:crushing_wheel"
 				type: "item"
 			}]
-			title: "{cube_warper.quest.chapter_4.023}"
+			title: "{cube_warper.quest.chapter_4.027}"
 			x: -4.0d
 			y: 18.0d
 		}
@@ -390,16 +398,16 @@
 			tasks: [{
 				dimension: "hexahedron:the_azurewood"
 				id: "5F6951ED75A4A1E5"
-				title: "{cube_warper.quest.chapter_4.024}"
+				title: "{cube_warper.quest.chapter_4.028}"
 				type: "dimension"
 			}]
-			title: "{cube_warper.quest.chapter_4.025}"
+			title: "{cube_warper.quest.chapter_4.029}"
 			x: 14.0d
 			y: 7.5d
 		}
 		{
 			dependencies: ["585121A406995B35"]
-			description: ["{cube_warper.quest.chapter_4.026}"]
+			description: ["{cube_warper.quest.chapter_4.030}"]
 			id: "3566CE49C98A4730"
 			rewards: [{
 				id: "457894353EAB5716"
@@ -416,7 +424,7 @@
 		}
 		{
 			dependencies: ["585121A406995B35"]
-			description: ["{cube_warper.quest.chapter_4.027}"]
+			description: ["{cube_warper.quest.chapter_4.031}"]
 			icon: "malum:runic_sapball"
 			id: "4F05D057277AA7FE"
 			rewards: [{
@@ -424,7 +432,7 @@
 				item: "supplementaries:confetti_popper"
 				type: "item"
 			}]
-			subtitle: "{cube_warper.quest.chapter_4.028}"
+			subtitle: "{cube_warper.quest.chapter_4.032}"
 			tasks: [
 				{
 					id: "20718A62F0A2B2B5"
@@ -442,7 +450,7 @@
 					type: "item"
 				}
 			]
-			title: "{cube_warper.quest.chapter_4.029}"
+			title: "{cube_warper.quest.chapter_4.033}"
 			x: 11.5d
 			y: 10.5d
 		}
@@ -466,8 +474,8 @@
 		{
 			dependencies: ["50FD9623DE826974"]
 			description: [
-				"{cube_warper.quest.chapter_4.030}"
-				"{cube_warper.quest.chapter_4.031}"
+				"{cube_warper.quest.chapter_4.034}"
+				"{cube_warper.quest.chapter_4.035}"
 			]
 			icon: "create:rose_quartz"
 			id: "69E8E5DC69DEBAB1"
@@ -476,7 +484,7 @@
 				item: "brewinandchewin:bloody_mary"
 				type: "item"
 			}]
-			subtitle: "{cube_warper.quest.chapter_4.032}"
+			subtitle: "{cube_warper.quest.chapter_4.036}"
 			tasks: [
 				{
 					id: "7CA0416F545CFFAD"
@@ -497,7 +505,7 @@
 				"69E8E5DC69DEBAB1"
 				"1143F172BCE0BC82"
 			]
-			description: ["{cube_warper.quest.chapter_4.033}"]
+			description: ["{cube_warper.quest.chapter_4.037}"]
 			id: "7A7CCA02D1D6DE9D"
 			rewards: [{
 				id: "7222765EB3AD42C4"
@@ -511,13 +519,13 @@
 				item: "create:mechanical_crafter"
 				type: "item"
 			}]
-			title: "{cube_warper.quest.chapter_4.034}"
+			title: "{cube_warper.quest.chapter_4.038}"
 			x: -4.0d
 			y: 13.0d
 		}
 		{
 			dependencies: ["41914B292526CC00"]
-			description: ["{cube_warper.quest.chapter_4.035}"]
+			description: ["{cube_warper.quest.chapter_4.039}"]
 			icon: "alexscaves:frostmint"
 			id: "5369027A022EB46D"
 			rewards: [{
@@ -538,7 +546,7 @@
 					type: "item"
 				}
 			]
-			title: "{cube_warper.quest.chapter_4.036}"
+			title: "{cube_warper.quest.chapter_4.040}"
 			x: 0.0d
 			y: 10.5d
 		}
@@ -549,13 +557,13 @@
 				"0921248B4773650A"
 			]
 			description: [
-				"{cube_warper.quest.chapter_4.037}"
+				"{cube_warper.quest.chapter_4.041}"
 				""
-				"{cube_warper.quest.chapter_4.038}"
+				"{cube_warper.quest.chapter_4.042}"
 				""
-				"{cube_warper.quest.chapter_4.039}"
+				"{cube_warper.quest.chapter_4.043}"
 				""
-				"{cube_warper.quest.chapter_4.040}"
+				"{cube_warper.quest.chapter_4.044}"
 			]
 			icon: "malum:spirit_altar"
 			id: "497247820F413C0E"
@@ -571,7 +579,7 @@
 				type: "item"
 			}]
 			shape: "gear"
-			subtitle: "{cube_warper.quest.chapter_4.041}"
+			subtitle: "{cube_warper.quest.chapter_4.045}"
 			tasks: [
 				{
 					id: "4A454ED07D7036C1"
@@ -590,7 +598,7 @@
 		}
 		{
 			dependencies: ["0A174D0B3636117B"]
-			description: ["{cube_warper.quest.chapter_4.042}"]
+			description: ["{cube_warper.quest.chapter_4.046}"]
 			id: "5FADC584E46C9392"
 			rewards: [{
 				id: "44925CE1A1433041"
@@ -598,7 +606,7 @@
 				type: "item"
 			}]
 			shape: "gear"
-			subtitle: "{cube_warper.quest.chapter_4.043}"
+			subtitle: "{cube_warper.quest.chapter_4.047}"
 			tasks: [{
 				id: "4DEF6B201AD59501"
 				item: "malum:spirit_crucible"
@@ -609,7 +617,7 @@
 		}
 		{
 			dependencies: ["497247820F413C0E"]
-			description: ["{cube_warper.quest.chapter_4.044}"]
+			description: ["{cube_warper.quest.chapter_4.048}"]
 			icon: "malum:infernal_spirit"
 			id: "0A174D0B3636117B"
 			rewards: [{
@@ -639,12 +647,13 @@
 					type: "item"
 				}
 			]
-			title: "{cube_warper.quest.chapter_4.045}"
+			title: "{cube_warper.quest.chapter_4.049}"
 			x: 11.5d
 			y: 24.5d
 		}
 		{
 			dependencies: ["41914B292526CC00"]
+			description: ["{cube_warper.quest.chapter_4.050}"]
 			icon: "supplementaries:lumisene_bucket"
 			id: "40236AE18FD2B000"
 			rewards: [
@@ -665,7 +674,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "{cube_warper.quest.chapter_4.046}"
+			subtitle: "{cube_warper.quest.chapter_4.051}"
 			tasks: [
 				{
 					id: "3E78273575929EE4"
@@ -688,36 +697,30 @@
 					type: "item"
 				}
 				{
-					id: "657DBA0814B52BE8"
-					item: "farmersdelight:cooking_pot"
-					optional_task: true
-					type: "item"
-				}
-				{
 					id: "422FD42B2A088F4D"
 					item: "supplementaries:lumisene_bottle"
 					type: "item"
 				}
 			]
-			title: "{cube_warper.quest.chapter_4.047}"
+			title: "{cube_warper.quest.chapter_4.052}"
 			x: 8.0d
 			y: 10.5d
 		}
 		{
 			dependencies: ["40236AE18FD2B000"]
 			description: [
-				"{cube_warper.quest.chapter_4.048}"
+				"{cube_warper.quest.chapter_4.053}"
 				""
-				"{cube_warper.quest.chapter_4.049}"
+				"{cube_warper.quest.chapter_4.054}"
 			]
 			icon: "alexscaves:gumball_pile"
 			id: "2C8A8C043BF486A1"
 			tasks: [{
 				id: "2A4274ED9EE69CB0"
-				title: "{cube_warper.quest.chapter_4.050}"
+				title: "{cube_warper.quest.chapter_4.055}"
 				type: "checkmark"
 			}]
-			title: "{cube_warper.quest.chapter_4.051}"
+			title: "{cube_warper.quest.chapter_4.056}"
 			x: 8.0d
 			y: 14.5d
 		}
@@ -786,7 +789,7 @@
 		}
 		{
 			dependencies: ["2BBB2BCBE8E363B8"]
-			description: ["{cube_warper.quest.chapter_4.052}"]
+			description: ["{cube_warper.quest.chapter_4.057}"]
 			id: "16D1607818EA293D"
 			rewards: [{
 				id: "65149E5CC6918543"
@@ -805,9 +808,9 @@
 		{
 			dependencies: ["320232D5783A0652"]
 			description: [
-				"{cube_warper.quest.chapter_4.053}"
+				"{cube_warper.quest.chapter_4.058}"
 				""
-				"{cube_warper.quest.chapter_4.054}"
+				"{cube_warper.quest.chapter_4.059}"
 			]
 			id: "5F9D8874286DFFA0"
 			rewards: [{
@@ -893,7 +896,7 @@
 				}
 				type: "item"
 			}]
-			subtitle: "{cube_warper.quest.chapter_4.055}"
+			subtitle: "{cube_warper.quest.chapter_4.060}"
 			tasks: [{
 				id: "54DA22EFFBE3FC8E"
 				item: "kubejs:chocolate_chip"
@@ -959,8 +962,8 @@
 				"17CECFF839894492"
 			]
 			description: [
-				"{cube_warper.quest.chapter_4.056}"
-				"{cube_warper.quest.chapter_4.057}"
+				"{cube_warper.quest.chapter_4.061}"
+				"{cube_warper.quest.chapter_4.062}"
 			]
 			icon: "immersiveengineering:coke_oven"
 			id: "0A96A6A3F883A86B"
@@ -970,7 +973,7 @@
 				type: "item"
 			}]
 			shape: "gear"
-			subtitle: "{cube_warper.quest.chapter_4.058}"
+			subtitle: "{cube_warper.quest.chapter_4.063}"
 			tasks: [
 				{
 					id: "7C4A693305F1365B"
@@ -1009,7 +1012,7 @@
 					type: "item"
 				}
 			]
-			title: "{cube_warper.quest.chapter_4.059}"
+			title: "{cube_warper.quest.chapter_4.064}"
 			x: -13.0d
 			y: 18.0d
 		}
@@ -1019,9 +1022,9 @@
 				"5EF27D3655B2D23D"
 			]
 			description: [
-				"{cube_warper.quest.chapter_4.060}"
+				"{cube_warper.quest.chapter_4.065}"
 				""
-				"{cube_warper.quest.chapter_4.061}"
+				"{cube_warper.quest.chapter_4.066}"
 			]
 			icon: "createdieselgenerators:bulk_fermenter"
 			id: "4949402D803E7D7C"
@@ -1031,7 +1034,7 @@
 				type: "item"
 			}]
 			shape: "gear"
-			subtitle: "{cube_warper.quest.chapter_4.062}"
+			subtitle: "{cube_warper.quest.chapter_4.067}"
 			tasks: [
 				{
 					id: "3EBCE9617DF4EB6D"
@@ -1060,7 +1063,7 @@
 					type: "item"
 				}
 			]
-			title: "{cube_warper.quest.chapter_4.063}"
+			title: "{cube_warper.quest.chapter_4.068}"
 			x: -4.0d
 			y: 29.0d
 		}
@@ -1082,7 +1085,7 @@
 		}
 		{
 			dependencies: ["3CDFB7634E1757EC"]
-			description: ["{cube_warper.quest.chapter_4.064}"]
+			description: ["{cube_warper.quest.chapter_4.069}"]
 			icon: "minecraft:blaze_rod"
 			id: "5EF27D3655B2D23D"
 			tasks: [
@@ -1102,7 +1105,7 @@
 					type: "item"
 				}
 			]
-			title: "{cube_warper.quest.chapter_4.065}"
+			title: "{cube_warper.quest.chapter_4.070}"
 			x: -4.0d
 			y: 25.0d
 		}
@@ -1112,9 +1115,9 @@
 				"743EC92ABFF82A3E"
 			]
 			description: [
-				"{cube_warper.quest.chapter_4.066}"
+				"{cube_warper.quest.chapter_4.071}"
 				""
-				"{cube_warper.quest.chapter_4.067}"
+				"{cube_warper.quest.chapter_4.072}"
 			]
 			icon: "thermal:iron_dust"
 			id: "17D1A9962C519245"
@@ -1123,7 +1126,7 @@
 				item: "supplementaries:confetti_popper"
 				type: "item"
 			}]
-			subtitle: "{cube_warper.quest.chapter_4.068}"
+			subtitle: "{cube_warper.quest.chapter_4.073}"
 			tasks: [
 				{
 					id: "0869763966918BAF"
@@ -1159,7 +1162,7 @@
 					type: "item"
 				}
 			]
-			title: "{cube_warper.quest.chapter_4.069}"
+			title: "{cube_warper.quest.chapter_4.074}"
 			x: -5.5d
 			y: 10.5d
 		}
@@ -1171,10 +1174,10 @@
 			tasks: [{
 				dimension: "hexahedron:blood_ocean"
 				id: "212DA0E6DAE6F629"
-				title: "{cube_warper.quest.chapter_4.070}"
+				title: "{cube_warper.quest.chapter_4.075}"
 				type: "dimension"
 			}]
-			title: "{cube_warper.quest.chapter_4.071}"
+			title: "{cube_warper.quest.chapter_4.076}"
 			x: -4.0d
 			y: 7.5d
 		}
@@ -1204,7 +1207,7 @@
 				item: "kubejs:party_popper"
 				type: "item"
 			}]
-			subtitle: "{cube_warper.quest.chapter_4.072}"
+			subtitle: "{cube_warper.quest.chapter_4.077}"
 			tasks: [
 				{
 					id: "5FBC56DCE14617A0"
@@ -1222,7 +1225,7 @@
 					type: "item"
 				}
 			]
-			title: "{cube_warper.quest.chapter_4.073}"
+			title: "{cube_warper.quest.chapter_4.078}"
 			x: 0.0d
 			y: 22.5d
 		}
@@ -1263,9 +1266,9 @@
 		{
 			dependencies: ["1F2CA8F24F6AFB93"]
 			description: [
-				"{cube_warper.quest.chapter_4.074}"
+				"{cube_warper.quest.chapter_4.079}"
 				""
-				"{cube_warper.quest.chapter_4.075}"
+				"{cube_warper.quest.chapter_4.080}"
 			]
 			icon: "biomesoplenty:brimstone"
 			id: "38561DF4074FA9DC"
@@ -1303,7 +1306,7 @@
 					type: "item"
 				}
 			]
-			title: "{cube_warper.quest.chapter_4.076}"
+			title: "{cube_warper.quest.chapter_4.081}"
 			x: -14.5d
 			y: 10.5d
 		}
@@ -1324,7 +1327,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "{cube_warper.quest.chapter_4.077}"
+			subtitle: "{cube_warper.quest.chapter_4.082}"
 			tasks: [
 				{
 					id: "4403381AEF86B586"
@@ -1342,7 +1345,7 @@
 		}
 		{
 			dependencies: ["4F05D057277AA7FE"]
-			description: ["{cube_warper.quest.chapter_4.078}"]
+			description: ["{cube_warper.quest.chapter_4.083}"]
 			icon: "thermal:device_rock_gen"
 			id: "7A7024EDC415AAB8"
 			rewards: [{
@@ -1368,10 +1371,31 @@
 					type: "item"
 				}
 			]
-			title: "{cube_warper.quest.chapter_4.079}"
+			title: "{cube_warper.quest.chapter_4.084}"
 			x: 10.0d
 			y: 12.5d
 		}
+		{
+			dependencies: ["0A96A6A3F883A86B"]
+			description: ["{cube_warper.quest.chapter_4.085}"]
+			icon: "thermal:lead_dust"
+			id: "5F442664FA982CEF"
+			tasks: [
+				{
+					id: "6CC4F279E74A94A3"
+					item: "thermal:machine_centrifuge"
+					type: "item"
+				}
+				{
+					id: "45E29003BEDF2601"
+					item: "thermal:lead_dust"
+					type: "item"
+				}
+			]
+			title: "{cube_warper.quest.chapter_4.086}"
+			x: -11.5d
+			y: 19.5d
+		}
 	]
-	title: "{cube_warper.quest.chapter_4.080}"
+	title: "{cube_warper.quest.chapter_4.087}"
 }

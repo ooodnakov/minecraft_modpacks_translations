@@ -797,6 +797,11 @@
 					item: "botania:ender_air_bottle"
 					type: "item"
 				}
+				{
+					id: "1D6AEEBD070BE88A"
+					item: "untagged_mobs:nothing"
+					type: "item"
+				}
 			]
 			title: "{cube_warper.quest.chapter_8.072}"
 			x: 4.0d
@@ -1149,6 +1154,37 @@
 			x: -6.5d
 			y: 20.0d
 		}
+		{
+			dependencies: ["7391519637010467"]
+			description: [
+				"{cube_warper.quest.chapter_8.101}"
+				""
+				"{cube_warper.quest.chapter_8.102}"
+			]
+			icon: "create:deployer"
+			id: "5013895EE10C5D81"
+			subtitle: "{cube_warper.quest.chapter_8.103}"
+			tasks: [
+				{
+					id: "3806031C95468F24"
+					item: "create:deployer"
+					type: "item"
+				}
+				{
+					id: "1B89B0AFDEE9A0D0"
+					item: "malum:block_of_living_flesh"
+					type: "item"
+				}
+				{
+					id: "2F23F8317A4C63BD"
+					title: "{cube_warper.quest.chapter_8.104}"
+					type: "checkmark"
+				}
+			]
+			title: "{cube_warper.quest.chapter_8.105}"
+			x: 0.0d
+			y: 19.0d
+		}
 	]
-	title: "{cube_warper.quest.chapter_8.101}"
+	title: "{cube_warper.quest.chapter_8.106}"
 }
